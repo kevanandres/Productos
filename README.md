@@ -1,6 +1,15 @@
-# compras
+# Compras
 
 A new Flutter project.
+Universidad de las Americas
+Kevin Cárdenas.
+Seminario de Sistemas.
+Aplicacion 3 - CRUD con consumo de camara web.
+La siguiente aplicacion utiliza los servicios API en Flutter, el cual es en Firebase, con el motivo de realizar un CRUD, y el acceso 
+a la camara de fotos y galeria.
+
+Link de Firebase: https://flutter.dev/docs/get-started/install/windows
+
 
 ## Getting Started
 
